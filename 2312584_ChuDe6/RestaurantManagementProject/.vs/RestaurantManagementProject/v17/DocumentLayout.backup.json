@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\Desktop\\2312610_NguyenTrungHiep_ChuDe6\\RestaurantManagementProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C51114CE-5647-49DE-B04F-3A0D0CBB65A1}|RestaurantManagementProject\\RestaurantManagementProject.csproj|D:\\Study\\Desktop\\2312610_NguyenTrungHiep_ChuDe6\\RestaurantManagementProject\\restaurantmanagementproject\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51114CE-5647-49DE-B04F-3A0D0CBB65A1}|RestaurantManagementProject\\RestaurantManagementProject.csproj|solutionrelative:restaurantmanagementproject\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51114CE-5647-49DE-B04F-3A0D0CBB65A1}|RestaurantManagementProject\\RestaurantManagementProject.csproj|d:\\study\\desktop\\2312610_nguyentrunghiep_chude6\\restaurantmanagementproject\\restaurantmanagementproject\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C51114CE-5647-49DE-B04F-3A0D0CBB65A1}|RestaurantManagementProject\\RestaurantManagementProject.csproj|solutionrelative:restaurantmanagementproject\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5AE50E-E9BB-447B-B621-71E4A1D049AB}|DataAccess\\DataAccess.csproj|D:\\Study\\Desktop\\2312610_NguyenTrungHiep_ChuDe6\\RestaurantManagementProject\\dataaccess\\dataclass\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B5AE50E-E9BB-447B-B621-71E4A1D049AB}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataclass\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5AE50E-E9BB-447B-B621-71E4A1D049AB}|DataAccess\\DataAccess.csproj|d:\\study\\desktop\\2312610_nguyentrunghiep_chude6\\restaurantmanagementproject\\dataaccess\\roleaccountda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B5AE50E-E9BB-447B-B621-71E4A1D049AB}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\roleaccountda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51114CE-5647-49DE-B04F-3A0D0CBB65A1}|RestaurantManagementProject\\RestaurantManagementProject.csproj|D:\\Study\\Desktop\\2312610_NguyenTrungHiep_ChuDe6\\RestaurantManagementProject\\restaurantmanagementproject\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C51114CE-5647-49DE-B04F-3A0D0CBB65A1}|RestaurantManagementProject\\RestaurantManagementProject.csproj|solutionrelative:restaurantmanagementproject\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51114CE-5647-49DE-B04F-3A0D0CBB65A1}|RestaurantManagementProject\\RestaurantManagementProject.csproj|D:\\Study\\Desktop\\2312610_NguyenTrungHiep_ChuDe6\\RestaurantManagementProject\\restaurantmanagementproject\\datban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51114CE-5647-49DE-B04F-3A0D0CBB65A1}|RestaurantManagementProject\\RestaurantManagementProject.csproj|solutionrelative:restaurantmanagementproject\\datban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51114CE-5647-49DE-B04F-3A0D0CBB65A1}|RestaurantManagementProject\\RestaurantManagementProject.csproj|D:\\Study\\Desktop\\2312610_NguyenTrungHiep_ChuDe6\\RestaurantManagementProject\\restaurantmanagementproject\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51114CE-5647-49DE-B04F-3A0D0CBB65A1}|RestaurantManagementProject\\RestaurantManagementProject.csproj|solutionrelative:restaurantmanagementproject\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51114CE-5647-49DE-B04F-3A0D0CBB65A1}|RestaurantManagementProject\\RestaurantManagementProject.csproj|D:\\Study\\Desktop\\2312610_NguyenTrungHiep_ChuDe6\\RestaurantManagementProject\\restaurantmanagementproject\\datban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C51114CE-5647-49DE-B04F-3A0D0CBB65A1}|RestaurantManagementProject\\RestaurantManagementProject.csproj|solutionrelative:restaurantmanagementproject\\datban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51114CE-5647-49DE-B04F-3A0D0CBB65A1}|RestaurantManagementProject\\RestaurantManagementProject.csproj|D:\\Study\\Desktop\\2312610_NguyenTrungHiep_ChuDe6\\RestaurantManagementProject\\restaurantmanagementproject\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C51114CE-5647-49DE-B04F-3A0D0CBB65A1}|RestaurantManagementProject\\RestaurantManagementProject.csproj|solutionrelative:restaurantmanagementproject\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5AE50E-E9BB-447B-B621-71E4A1D049AB}|DataAccess\\DataAccess.csproj|D:\\Study\\Desktop\\2312610_NguyenTrungHiep_ChuDe6\\RestaurantManagementProject\\dataaccess\\accountda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B5AE50E-E9BB-447B-B621-71E4A1D049AB}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\accountda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5AE50E-E9BB-447B-B621-71E4A1D049AB}|DataAccess\\DataAccess.csproj|D:\\Study\\Desktop\\2312610_NguyenTrungHiep_ChuDe6\\RestaurantManagementProject\\dataaccess\\dataclass\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B5AE50E-E9BB-447B-B621-71E4A1D049AB}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataclass\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51114CE-5647-49DE-B04F-3A0D0CBB65A1}|RestaurantManagementProject\\RestaurantManagementProject.csproj|D:\\Study\\Desktop\\2312610_NguyenTrungHiep_ChuDe6\\RestaurantManagementProject\\restaurantmanagementproject\\inhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51114CE-5647-49DE-B04F-3A0D0CBB65A1}|RestaurantManagementProject\\RestaurantManagementProject.csproj|solutionrelative:restaurantmanagementproject\\inhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Food.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\Desktop\\2312610_NguyenTrungHiep_ChuDe6\\RestaurantManagementProject\\RestaurantManagementProject\\Food.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementProject\\Food.cs",
+              "ToolTip": "D:\\Study\\Desktop\\2312610_NguyenTrungHiep_ChuDe6\\RestaurantManagementProject\\RestaurantManagementProject\\Food.cs [Design]",
+              "RelativeToolTip": "RestaurantManagementProject\\Food.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T08:38:40.31Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\Desktop\\2312610_NguyenTrungHiep_ChuDe6\\RestaurantManagementProject\\RestaurantManagementProject\\Login.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementProject\\Login.cs",
+              "ToolTip": "D:\\Study\\2312610_NguyenTrungHiep_ChuDe6\\RestaurantManagementProject\\RestaurantManagementProject\\Login.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\2312610_NguyenTrungHiep_ChuDe6\\RestaurantManagementProject\\RestaurantManagementProject\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T07:58:17.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountDA.cs",
+              "DocumentMoniker": "D:\\Study\\Desktop\\2312610_NguyenTrungHiep_ChuDe6\\RestaurantManagementProject\\DataAccess\\AccountDA.cs",
+              "RelativeDocumentMoniker": "DataAccess\\AccountDA.cs",
+              "ToolTip": "D:\\Study\\Desktop\\2312610_NguyenTrungHiep_ChuDe6\\RestaurantManagementProject\\DataAccess\\AccountDA.cs",
+              "RelativeToolTip": "DataAccess\\AccountDA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T02:05:36.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Study\\Desktop\\2312610_NguyenTrungHiep_ChuDe6\\RestaurantManagementProject\\RestaurantManagementProject\\App.config",
+              "RelativeDocumentMoniker": "RestaurantManagementProject\\App.config",
+              "ToolTip": "D:\\Study\\Desktop\\2312610_NguyenTrungHiep_ChuDe6\\RestaurantManagementProject\\RestaurantManagementProject\\App.config",
+              "RelativeToolTip": "RestaurantManagementProject\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-31T13:17:43.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Food.cs",
+              "DocumentMoniker": "D:\\Study\\Desktop\\2312610_NguyenTrungHiep_ChuDe6\\RestaurantManagementProject\\DataAccess\\DataClass\\Food.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DataClass\\Food.cs",
+              "ToolTip": "D:\\Study\\Desktop\\2312610_NguyenTrungHiep_ChuDe6\\RestaurantManagementProject\\DataAccess\\DataClass\\Food.cs",
+              "RelativeToolTip": "DataAccess\\DataClass\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T13:10:24.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Study\\Desktop\\2312610_NguyenTrungHiep_ChuDe6\\RestaurantManagementProject\\DataAccess\\DataClass\\Category.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DataClass\\Category.cs",
+              "ToolTip": "D:\\Study\\Desktop\\2312610_NguyenTrungHiep_ChuDe6\\RestaurantManagementProject\\DataAccess\\DataClass\\Category.cs",
+              "RelativeToolTip": "DataAccess\\DataClass\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T13:08:11.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatBan.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\Desktop\\2312610_NguyenTrungHiep_ChuDe6\\RestaurantManagementProject\\RestaurantManagementProject\\DatBan.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementProject\\DatBan.cs",
+              "ToolTip": "D:\\Study\\2312610_NguyenTrungHiep_ChuDe6\\RestaurantManagementProject\\RestaurantManagementProject\\DatBan.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\2312610_NguyenTrungHiep_ChuDe6\\RestaurantManagementProject\\RestaurantManagementProject\\DatBan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T12:32:31.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "D:\\Study\\Desktop\\2312610_NguyenTrungHiep_ChuDe6\\RestaurantManagementProject\\RestaurantManagementProject\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementProject\\OrderDetails.cs",
+              "ToolTip": "D:\\Study\\Desktop\\2312610_NguyenTrungHiep_ChuDe6\\RestaurantManagementProject\\RestaurantManagementProject\\OrderDetails.cs",
+              "RelativeToolTip": "RestaurantManagementProject\\OrderDetails.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAlwA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T12:02:10.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoleAccountDA.cs",
+              "DocumentMoniker": "D:\\Study\\Desktop\\2312610_NguyenTrungHiep_ChuDe6\\RestaurantManagementProject\\DataAccess\\RoleAccountDA.cs",
+              "RelativeDocumentMoniker": "DataAccess\\RoleAccountDA.cs",
+              "ToolTip": "D:\\Study\\Desktop\\2312610_NguyenTrungHiep_ChuDe6\\RestaurantManagementProject\\DataAccess\\RoleAccountDA.cs",
+              "RelativeToolTip": "DataAccess\\RoleAccountDA.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAMwBUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T10:59:54.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InHoaDon.cs",
+              "DocumentMoniker": "D:\\Study\\Desktop\\2312610_NguyenTrungHiep_ChuDe6\\RestaurantManagementProject\\RestaurantManagementProject\\InHoaDon.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementProject\\InHoaDon.cs",
+              "ToolTip": "D:\\Study\\Desktop\\2312610_NguyenTrungHiep_ChuDe6\\RestaurantManagementProject\\RestaurantManagementProject\\InHoaDon.cs",
+              "RelativeToolTip": "RestaurantManagementProject\\InHoaDon.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAwwBcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T08:02:51.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatBan.cs",
+              "DocumentMoniker": "D:\\Study\\Desktop\\2312610_NguyenTrungHiep_ChuDe6\\RestaurantManagementProject\\RestaurantManagementProject\\DatBan.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementProject\\DatBan.cs",
+              "ToolTip": "D:\\Study\\Desktop\\2312610_NguyenTrungHiep_ChuDe6\\RestaurantManagementProject\\RestaurantManagementProject\\DatBan.cs",
+              "RelativeToolTip": "RestaurantManagementProject\\DatBan.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAswBQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T07:56:11.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Food.cs",
+              "DocumentMoniker": "D:\\Study\\Desktop\\2312610_NguyenTrungHiep_ChuDe6\\RestaurantManagementProject\\RestaurantManagementProject\\Food.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementProject\\Food.cs",
+              "ToolTip": "D:\\Study\\Desktop\\2312610_NguyenTrungHiep_ChuDe6\\RestaurantManagementProject\\RestaurantManagementProject\\Food.cs",
+              "RelativeToolTip": "RestaurantManagementProject\\Food.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAmwMUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T07:37:14.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
